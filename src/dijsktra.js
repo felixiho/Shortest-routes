@@ -68,6 +68,6 @@ export class Dijkstra {
 			path: optimalPath
 		};
 
-		return results;
+		console.log(results);
 	}
 }

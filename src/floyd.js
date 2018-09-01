@@ -31,8 +31,7 @@ export class floydWarshall{
 				}
 			}  
 		}
-		console.log(InputGraph);
-		console.log(sanitized);
+		return sanitized;
 	}
 
 	/**
